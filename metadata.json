@@ -1,0 +1,6 @@
+{
+  "name": "IMAGINE - AI Home Decor & Room Visualisation",
+  "description": "See it. Place it. Love it. AI-powered home decor visualisation, intelligent room object replacement, texture and material transformation, and interior design styling platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
